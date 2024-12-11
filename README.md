@@ -1,4 +1,6 @@
-Profit Analysis
+## Profit Analysis
+
+Link: https://app.powerbi.com/groups/me/reports/90455caf-8a18-45d4-b0ab-dc51fc9f4cd8/d1a39d8d91a065528d22?experience=power-bi
 
 Created financial Dashboard focused on Profit Analysis using the financial sample dataset provided by Microsoft Power Bi
 dataset inside your already installed Power Bi Desktop Version.
