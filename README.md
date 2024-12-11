@@ -10,5 +10,4 @@ I have incorporated Profit, COGS, Net Sales, Gross Sales in the report.
 Learned to create profit negative in the given format for the area chart by using DAX Formulas. 
 It is not possible in Power Bi for you to have a default Formatting.
 
-
-![Screenshot (10)](https://github.com/user-attachments/assets/12a7a175-2595-471d-9523-eeba2e9b8123)
+![PBI1](https://github.com/user-attachments/assets/6bdb6171-14e4-4f95-9e93-42940e079b7a)
